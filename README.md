@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/xmen4u/images_dataset_to_pickle.svg)](https://travis-ci.org/xmen4u/images_dataset_to_pickle)
-https://github.com/xmen4u/images_dataset_to_pickle.git
 
 ## Pickles image datasets
 ============================================
